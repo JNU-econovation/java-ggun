@@ -2,7 +2,7 @@
 
 1. 프로젝트를 자신의 계정으로 fork합니다.
     > fork는 스프링 스터디 저장소를 자신의 계정으로 복사하는 기능입니다.
-   > 
+
    <img width="1439" alt="Screen Shot 2022-11-19 at 8 32 24 PM" src="https://user-images.githubusercontent.com/47661695/202848677-164cf284-e38a-434b-9e7d-572060233f4c.png">
 
 2. fork한 저장소를 자신의 컴퓨터로 clone하고 폴더로 이동합니다.
@@ -10,7 +10,7 @@
     ```
    git clone https://github.com/{본인 아이디}/{저장소 아이디}.git
    ```
-   ex) `git clone https://github.com/mywnajsldkf/java-baseball.git`
+   ex) `git clone https://github.com/mywnajsldkf/java-ggun.git`
 
 3. 자신의 브랜치를 생성하고 이동합니다.
     ```
@@ -39,7 +39,7 @@
 7. github 서비스에서 pull request를 보냅니다.
     > pull request는 github에서 제공하는 기능으로 코드리뷰를 요청할 때 사용합니다.
 
-    `{자신의 github id}/java-baseball {자신의 브랜치}`에서 `eonovation/java-baseball {자신의 브랜치}`로 pull request를 보냅니다.
+    `{자신의 github id}/java-ggun {자신의 브랜치}`에서 `eonovation/java-ggun {자신의 브랜치}`로 pull request를 보냅니다.
 
 8. 미션에서 작업한 내용을 확인하고 `Create pull request` 버튼을 클릭해 PR 내용을 작성한 후, `Create pull request`를 눌러 제출합니다.
     ```
